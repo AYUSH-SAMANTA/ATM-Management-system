@@ -1,0 +1,23 @@
+# Compiled Class Files
+*.class
+bin/
+out/
+target/
+
+# Package files (ignore generated JARs)
+*.jar
+
+# Temporary helper scripts
+generate_docx.py
+
+# IDE & Editor folders
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS Files
+Thumbs.db
+.DS_Store
